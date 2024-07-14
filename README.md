@@ -1,6 +1,6 @@
-# Simple Game in Assembly Language
+# Car Racer Game in Assembly Language
 
-This assembly code implements a simple game in VGA graphics mode, where the player controls a character to avoid obstacles and score points.
+This assembly code implements a Car Racer game in VGA graphics mode, where the player controls a character to avoid obstacles and score points.
 
 ## Features
 
